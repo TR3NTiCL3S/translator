@@ -1,5 +1,4 @@
 # australian slang
-aight:alright
 barbie:barbecue
 ambo:ambulance
 ankle biter:small child
@@ -9,6 +8,7 @@ Freo:Fremantle
 g'day:hello
 
 # american slang
+aight:alright
 armpit:unpleasant place
 egghead:overly intellectual person
 jock:an athlete
