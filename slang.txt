@@ -12,3 +12,8 @@ g'day:hello
 armpit:unpleasant place
 egghead:overly intellectual person
 jock:an athlete
+
+# computer/txt slang
+omg:oh my god
+lol:laughing out loud
+hosed:made non-functional
