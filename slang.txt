@@ -6,6 +6,7 @@ bodgy:of inferior quality
 cobber:friend
 Freo:Fremantle
 g'day:hello
+mate:friend
 
 # american slang
 aight:alright
