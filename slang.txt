@@ -7,6 +7,7 @@ cobber:friend
 Freo:Fremantle
 g'day:hello
 mate:friend
+hoon:hooligan
 
 # american slang
 aight:alright
@@ -18,3 +19,4 @@ jock:an athlete
 omg:oh my god
 lol:laughing out loud
 hosed:made non-functional
+bricked:made non-functional
