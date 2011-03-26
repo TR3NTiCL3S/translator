@@ -33,7 +33,7 @@ chomp($line = <STDIN>);
 
 # do conversions
 foreach $key (keys %translations) {
-	$line =~ s/$key/$translations{$key}/ig;
+	$line =~ s/\b\Q$key\E\b/$translations{$key}/ig;
 }
 
 # print result
