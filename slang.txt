@@ -18,3 +18,4 @@ jock:an athlete
 omg:oh my god
 lol:laughing out loud
 hosed:made non-functional
+bricked:made non-functional
