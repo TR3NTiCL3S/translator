@@ -17,7 +17,7 @@ my $fileline;
 open(IN, "$filename") or die "Can't open $filename: $!";
 while(chomp($fileline = <IN>)) {
 	# read translation lines
-	if($fileline =~ /(.+):(.+)/) {
+	if($fileline =~ /^\s*(.+)\s*:\s*(.+)\s*$/) {
 		$translations{$1} = $2;
 	# ignore blank lines or comments
 	} elsif($fileline =~ /^\s*#|^\s*$/) {
