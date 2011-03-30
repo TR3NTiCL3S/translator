@@ -8,6 +8,7 @@ Freo:Fremantle
 g'day:hello
 mate:friend
 hoon:hooligan
+traino:Train Station
 
 # american slang
 aight:alright
