@@ -10,9 +10,9 @@ mate:friend
 hoon:hooligan
 traino:Train Station
 
-SEARCH ENGINE:         What you do when the car won't go. 
-CURSOR:                What you say when the Ute won't go. 
-YAHOO:                 What you say when the Ute does go.
+SEARCH ENGINE:What you do when the car won't go. 
+CURSOR:What you say when the Ute won't go. 
+YAHOO:What you say when the Ute does go.
 
 # american slang
 aight:alright
