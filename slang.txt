@@ -8,6 +8,7 @@ Freo:Fremantle
 g'day:hello
 mate:friend
 hoon:hooligan
+traino:Train Station
 
 SEARCH ENGINE:         What you do when the car won't go. 
 CURSOR:                What you say when the Ute won't go. 
@@ -24,3 +25,4 @@ omg:oh my god
 lol:laughing out loud
 hosed:made non-functional
 bricked:made non-functional
+ftw:for the win
