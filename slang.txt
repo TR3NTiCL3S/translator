@@ -26,8 +26,5 @@ lol:laughing out loud
 hosed:made non-functional
 bricked:made non-functional
 ftw:for the win
-<<<<<<< HEAD
-wtf:why the face
-=======
 wth:what the heck
->>>>>>> 183e8ef508e9cc7b83823b7c8bda7b1154df1805
+wtf:why the face
