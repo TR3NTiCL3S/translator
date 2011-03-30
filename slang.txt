@@ -21,3 +21,4 @@ lol:laughing out loud
 hosed:made non-functional
 bricked:made non-functional
 ftw:for the win
+wth:what the heck
